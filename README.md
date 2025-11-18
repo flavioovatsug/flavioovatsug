@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Flávio Melo, tenho 21 anos e sou de Brasília. Atualmente, estou cursando Engenharia de Software na Universidade de Brasília (UNB). Sou programador FullStack, mas também tenho bastante interesse na área de Inteligência Artificial e Machine Learning.
+Me chamo Flávio Melo, tenho 22 anos e sou de Brasília. Atualmente, estou cursando Engenharia de Software na Universidade de Brasília (UNB). Sou desenvolvedor FullStack, mas também tenho bastante interesse na área de Inteligência Artificial e Machine Learning.
 
 ---
 
